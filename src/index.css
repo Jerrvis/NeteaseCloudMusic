@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+:root {
+  --bg-opacity: 1;
+  --bg-transparent: transparent;
+  --bc-maincolor: aqua;
+  --tc-transparent: rgba(255, 255, 255, 0.4);
+  --bc-icon: rgba(153, 153, 153, 0.4);
+  --tc-normal: white;
+  --tc-gray: rgba(100, 100, 100, 0.6);
+  --tc-lightgray: #ebebeb;
+}

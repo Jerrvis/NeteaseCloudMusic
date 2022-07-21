@@ -1,0 +1,21 @@
+.nav {
+  padding-left: 8px;
+  width: 200px;
+  border-right: 1px solid #ebebeb;
+}
+.nav li,
+.nav h4 {
+  padding: 4px 0;
+  margin: 12px;
+}
+.nav li {
+  font-size: 16px;
+  cursor: pointer;
+}
+.nav li:hover {
+  background-color: var(--bc-icon);
+}
+.nav h4 {
+  font-size: 12px;
+  color: var(--tc-gray);
+}
